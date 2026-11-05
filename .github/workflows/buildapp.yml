@@ -22,7 +22,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "Direct URL of the decrypted YouTube IPA"
+        description: "https://www.dropbox.com/request/s76bqkkpo7s53qmg3zcm"
         default: ""
         required: true
         type: string
